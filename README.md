@@ -1,4 +1,4 @@
-# Brightness-Of-Led-On-a-Scale
+# It’s Movie Time! Switch lights on dim with a click!
 
 # Problem Instance
 Consider that you are using your laptop to watch a movie and that you want to dim the lights as per your wish to create the atmosphere of a movie theater. What if you could accomplish the same thing while seated in bed with only one click? Doesn’t it look amazing?
