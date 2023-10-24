@@ -8,10 +8,14 @@ Therefore, we will learn how to create code for the LED in this project, that wi
 
 # Components used in this project
 BOLT Wi-Fi module, Resistor, LED, Mobile adapter, controller device. 
+
 Executed the JavaScript development codes on BOLT-IOT cloud.
 
 # What this device will help you with?
 This device when deployed will help you with the following: -
+
 •	Energy Efficiency: Lowering the intensity when full brightness is not required helps save energy and extends the lifespan of the LEDs.
+
 •	Accessibility: For people with mobility issues or disabilities, remote control LED intensity provides easy access to adjust lighting without the need to move around physically.
+
 •	Mood and Ambiance: Remote control LED intensity lets you set the perfect ambiance for different occasions and moods.
