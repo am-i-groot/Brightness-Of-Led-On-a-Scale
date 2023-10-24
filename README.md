@@ -1,5 +1,5 @@
 # Brightness-Of-Led-On-a-Scale
-It’s Movie Time! Switch lights on dim with a click!
+## It’s Movie Time! Switch lights on dim with a click!
 
 # Components used in this project
 BOLT Wi-Fi module, Resistor, LED, Mobile adapter, controller device. 
