@@ -1,6 +1,6 @@
 # Brightness-Of-Led-On-a-Scale
 ## It’s Movie Time! Switch lights on dim with a click!
-we will learn how to control the LED using Bolt Cloud.
+We will learn how to control the LED using Bolt Cloud.
 
 # Problem Instance
 Imagine you are watching a movie on your laptop and you want to turn off/dim the light of the room to get the feel of a movie hall. What if you can do the same by just one click while sitting on your bed. Sound's interesting!!
